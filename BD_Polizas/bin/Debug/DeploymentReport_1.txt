@@ -1,0 +1,24 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Se está quitando la columna [dbo].[Radicados].[clienteId]; puede que se pierdan datos.
+
+** Acciones del usuario
+     Quitar
+       [dbo].[FK_Radicados_RCliente] (Clave externa)
+     Modificar
+       [dbo].[Autos] (Tabla)
+       [dbo].[Radicados] (Tabla)
+     Crear
+       [dbo].[FK_Autos_ToCliente] (Clave externa)
+
+** Acciones de compatibilidad
+
+Se está quitando la columna [dbo].[Radicados].[clienteId]; puede que se pierdan datos.
+Las bases de datos del proyecto y de destino tienen una configuración de intercalación diferente. Se pueden producir errores de implementación.
+

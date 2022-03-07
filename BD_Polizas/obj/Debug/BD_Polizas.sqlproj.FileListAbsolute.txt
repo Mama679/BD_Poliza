@@ -1,0 +1,6 @@
+C:\proyectos\Polizas_autos\BDPolizas\BD_Polizas\bin\Debug\BD_Polizas.dacpac
+C:\proyectos\Polizas_autos\BDPolizas\BD_Polizas\bin\Debug\BD_Polizas.dll
+C:\proyectos\Polizas_autos\BDPolizas\BD_Polizas\bin\Debug\BD_Polizas.pdb
+C:\proyectos\Polizas_autos\BDPolizas\BD_Polizas\obj\Debug\BD_Polizas.sqlproj.AssemblyReference.cache
+C:\proyectos\Polizas_autos\BDPolizas\BD_Polizas\obj\Debug\BD_Polizas.dll
+C:\proyectos\Polizas_autos\BDPolizas\BD_Polizas\obj\Debug\BD_Polizas.pdb

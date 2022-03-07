@@ -1,0 +1,31 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[Autos] (Tabla)
+       [dbo].[Clientes] (Tabla)
+       [dbo].[Polizas] (Tabla)
+       [dbo].[PropietariosAutos] (Tabla)
+       [dbo].[Radicados] (Tabla)
+       [dbo].[FK_Clientes] (Clave externa)
+       [dbo].[FK_Autos] (Clave externa)
+       [dbo].[FK_Radicados_RPoliza] (Clave externa)
+       [dbo].[FK_Radicados_RCliente] (Clave externa)
+       [dbo].[FK_Radicados_RAuto] (Clave externa)
+       [dbo].[ProcActualizarClient] (Procedimiento)
+       [dbo].[ProcInsertarCliente] (Procedimiento)
+       [dbo].[ProcObtenerCliente] (Procedimiento)
+       [dbo].[ProcObtenerClientes] (Procedimiento)
+
+** Acciones de compatibilidad
+
+Las bases de datos del proyecto y de destino tienen una configuración de intercalación diferente. Se pueden producir errores de implementación.
+
