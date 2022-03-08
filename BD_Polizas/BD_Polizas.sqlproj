@@ -68,6 +68,21 @@
     <Build Include="Procedures\ProcActualizarCliente.sql" />
     <Build Include="Procedures\ProcObtenerClientes.sql" />
     <Build Include="Procedures\ProcObtenerCliente.sql" />
+    <Build Include="Procedures\ProcEliminarCliente.sql" />
+    <Build Include="Procedures\ProcInsertarAuto.sql" />
+    <Build Include="Procedures\ProcObtenerAutos.sql" />
+    <Build Include="Procedures\ProcObtenerAuto.sql" />
+    <Build Include="Procedures\ProcEliminarAuto.sql" />
+    <Build Include="Procedures\ProcGetPolizas.sql" />
+    <Build Include="Procedures\ProcObtenerPoliza.sql" />
+    <Build Include="Procedures\ProcActualizarAuto.sql" />
+    <Build Include="Procedures\ProcActualizarPoliza.sql" />
+    <Build Include="Procedures\ProcObtenerRadicados.sql" />
+    <Build Include="Procedures\ProcObtenerRadicadoById.sql" />
+    <Build Include="Procedures\ProcObtenerXNum.sql" />
+    <Build Include="Procedures\ProcInsertarPoliza.sql" />
+    <Build Include="Procedures\ProcAddRadicado.sql" />
+    <Build Include="Procedures\ProcUpdateRad.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="BD_Polizas.refactorlog" />
